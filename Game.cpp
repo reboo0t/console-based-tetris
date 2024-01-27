@@ -34,9 +34,9 @@ void Game::changeDifficulty()
 
         Select difficulty:                Made by:
 
-        1: Easy                           Chuiko Nikita
+        1: Easy                           
         2: Medium                         Batalov Maximilian      
-        3: Hard                           Romanov William               
+        3: Hard                                        
             
 #==================================================================#
 
@@ -83,10 +83,10 @@ int Game::menu()
 
         <Menu>                            Made by:
 
-        1: Start Game                     Chuiko Nikita
+        1: Start Game                     
         2: Difficulty )"
          << ": " << difficultyStatus << R"(            Batalov Maximilian      
-        3: Quit                           Romanov William               
+        3: Quit                                       
             
 #==================================================================#
 
